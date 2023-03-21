@@ -1,2 +1,3 @@
 # crxjs-vite-plugin
-Making crxjs-vite plugin using vanilla js
+Making crxjs-vite plugin using react
+
